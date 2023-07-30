@@ -1,4 +1,4 @@
-# Mini-projects
+# Mini-Project
 **TABLE OF CONTENTS**
 1. DATA UNDERSTANDING
 2. MODELLING
