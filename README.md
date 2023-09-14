@@ -21,7 +21,7 @@ We have three different target categories as positive, neutral or negative depen
 The sentiment column served as the target, and tweet column as the predictor variable in our modeling.
 Class imbalance was an issue found during modeling.
 Logistic Regression, Naive Bayes, Support Vector Classifier were tested as well as LSTM network
-Although most of models had overfitting issues, Naive Bayes showed slight improvement on overfitting with the highest F1 score of 91%.
+Although most of models had overfitting issues, SVM showed slight improvement on overfitting with the highest F1 score of 91%.
 
 **BEST PERFORMING MODEL**
 
