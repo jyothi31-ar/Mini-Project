@@ -31,4 +31,4 @@ False Negative: Model predicts positive tweet but it's actually negative, leadin
 
 **CONCLUSION**
 
-Best accuracy and F1 score were achieved through parameter tuning with NAIVE BAYES.
+Best accuracy and F1 score were achieved through parameter tuning with SUPPORT VECTOR MACHINE.
